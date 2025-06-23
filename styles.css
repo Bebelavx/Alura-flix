@@ -12,9 +12,12 @@ header {
     font-feature-settings: "aalt" 32px;
     color: black;
 }
-section { 
-    background:rgb(65, 3, 3)
-    padding-box 80px;
-    padding-top: 80ox;
+section {
+    background: rgb(85, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
+}
+div { 
+    margin-right: 20px;
 }
