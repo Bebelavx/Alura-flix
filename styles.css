@@ -6,7 +6,7 @@ body {
 
 header {
     border-bottom: solid 2px black;
-    padding: 20px;
+    padding-top: 20px;
     font-feature-settings: "aalt" 32px;
     color: black;
 }
