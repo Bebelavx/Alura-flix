@@ -40,4 +40,5 @@ height: 200px;
 
 .categoria-vídeos {
     display:flex;
+    overflow-x: auto;
 }
