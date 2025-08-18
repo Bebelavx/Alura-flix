@@ -13,10 +13,10 @@ header {
     color: rgb(0, 0, 0);
 }
 
-section {
+  .chamada {
     background: solid 2px rgb(87, 46, 46);
-    padding-bottom: 60px;
-    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
@@ -38,17 +38,13 @@ height: 150px;
 
 }
 
-/* código omitido */
-
 .categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-/* código omitido */
-
-section {
+.categoria {
   padding-left: 20px;
   padding-right: 20px;
 }
